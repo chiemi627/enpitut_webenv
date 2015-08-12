@@ -15,13 +15,13 @@
 ```bash
  % cp dot.env.sample .env
 ```
-	* .envファイルに記入が必要な情報は以下の5つです
-	  * API Key
-	  * Secret Key
-	  * Key Pair
-	  * IP Address
-	  * Private Key Path
-	* これらの情報の取得方法に関しては http://www.idcf.jp/blog/cloud/api_autoscale2/ を参考にしてください。
+* .envファイルに記入が必要な情報は以下の5つです
+	* API Key
+	* Secret Key
+	* Key Pair
+	* IP Address
+	* Private Key Path
+これらの情報の取得方法に関しては http://www.idcf.jp/blog/cloud/api_autoscale2/ を参考にしてください。
 * リモート環境にGuestOSを構築する
 ```bash
  % vagrant up --provider=cloudstack

@@ -29,7 +29,16 @@ Git, VirtualBoxとVagrantのインストール
 % choco install git virtualbox vagrant
 ```
 * スクリーンキャスト
-  * http://youtu.be/MQHDRIUP3hI
+* http://youtu.be/MQHDRIUP3hI
+
+Vagrantプラグインのインストール
+---
+ホストOSとゲストOS間の操作を便利にするプラグイン(Guest Addition)を最新化
+するプラグインをインストールします。
+
+```bash
+ % vagrant plugin install vagrant-vbguest
+```
 
 Git bashの設定（for Windows)
 ---
