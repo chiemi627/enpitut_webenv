@@ -7,16 +7,16 @@
 
 作業手順
 ---
-1. 環境設定ファイルを置くためのディレクトリを作成する
+* 環境設定ファイルを置くためのディレクトリを作成する
 ```bash
  % mkdir enpit
  % cd enpit
 ```
-2. 準備
+* 準備
 ```bash
  % vagrant init chiemi627/centos7.0-rails
 ```
-3. 環境構築
+* 環境構築
 ```bash
  % vagrant up --provider virtualbox
 ```
