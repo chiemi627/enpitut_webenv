@@ -64,3 +64,4 @@ Host enpit
 % ssh enpit
 ```
 とするとvagrant sshと同じ設定でログインできます。
+
