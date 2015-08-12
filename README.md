@@ -22,14 +22,14 @@ Webアプリ（Ruby on Rails）の開発環境構築セットです。
   * GitHubと連携するための各種コマンド(git, hub, github-connect.sh)
   * 各種設定ファイル（.bash_profile, .gemrc, .gitconfig)
 
-設定手順
+構築手順
 ---
 * [準備](preparation.md)
 * [開発環境(仮想マシン)を構築する](generateVM.md)
 * [開発環境の構成を変更する](modifyVagrantfile.md)
 * [クラウド上に環境を設定する](deployVM.md)
 
-関連するレポジトリ
+関連するリポジトリ
 ---
 * [github:chiemi627/vagrant_cookbook_centos70](https://github.com/chiemi627/vagrant_cookbook_centos70)
 * [github:ychubachi/entit](https://github.com/ychubachi/enpit)
