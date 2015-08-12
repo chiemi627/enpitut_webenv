@@ -28,3 +28,9 @@ Webアプリ（Ruby on Rails）の開発環境構築セットです。
 * [開発環境(仮想マシン)を構築する](generateVM.md)
 * [開発環境の構成を変更する](modifyVagrantfile.md)
 * [クラウド上に環境を設定する](deployVM.md)
+
+関連するレポジトリ
+---
+* [github:chiemi627/vagrant_cookbook_centos70](https://github.com/chiemi627/vagrant_cookbook_centos70)
+* [github:ychubachi/entit](https://github.com/ychubachi/enpit)
+* [github:ychubachi/enpit_vagrant](https://github.com/ychubachi/enpit_vagrant)
