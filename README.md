@@ -25,6 +25,6 @@ Webアプリ（Ruby on Rails）の開発環境構築セットです。
 設定手順
 ---
 * [準備](preparation.md)
-* [enPiT筑波大が提供する仮想マシンを利用する](generateVM.md)
+* [開発環境(仮想マシン)を構築する](generateVM.md)
 * [開発環境の構成を変更する](modifyVagrantfile.md)
 * [クラウド上に環境を設定する](deployVM.md)
