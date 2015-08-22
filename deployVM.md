@@ -1,4 +1,4 @@
-クラウド上に環境を設定する
+クラウド上に環境を設定する(railsセットのみ)
 ===
 [chiemi627/vagrant_cookbook_centos70](https://github.com/chiemi627/vagrant_cookbook_centos70)
 を使ってクラウド上に環境を設定することができます。ここではIDCFクラウド（cloudstack）を想定した環境構築の
