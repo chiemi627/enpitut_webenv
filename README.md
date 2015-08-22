@@ -16,7 +16,7 @@ Webアプリ（Ruby on Rails）の開発環境構築セットです。
 ---
 * OS: Cent OS 7.0
 
-**** Railsセット
+### Railsセット
 * インストールされているもの
   * Ruby(2.2), Java(1.8), gcc(4.8.3)
   * Ruby on Rails(4.2.3)
@@ -24,7 +24,7 @@ Webアプリ（Ruby on Rails）の開発環境構築セットです。
   * GitHubと連携するための各種コマンド(git, hub, github-connect.sh)
   * 各種設定ファイル（.bash_profile, .gemrc, .gitconfig)
 
-**** CakePHPセット
+### CakePHPセット
 * インストールされているもの
   * PHP(5.6),Ruby(2.2), Java(1.8), gcc(4.8.3)
   * CakePHP3を使うのに必要なもの（icu, mbstring, pdo(mysql))
