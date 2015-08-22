@@ -31,7 +31,7 @@
 
 * 実行後の状態
  * Railsセットの場合
-   * [Railsセットハンズオン資料 by 産技大enpit](https://goo.gl/9ddYIs)の第１章「enPiT仮想化環境にログイン」から進められる状態
+   * [Railsセットハンズオン資料 by 産技大enpit](https://goo.gl/9ddYIs)の第１章の途中、「enPiT仮想化環境にログイン」から進められる状態
  * CakePHPセットの場合
    * /var/www/htmlの下にcakephp3をインストールしてある
    * http://localhost:8080 でページが見えるはず
