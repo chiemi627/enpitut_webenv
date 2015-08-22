@@ -15,6 +15,7 @@ Webアプリ（Ruby on Rails）の開発環境構築セットです。
 開発環境の構成
 ---
 * OS: Cent OS 7.0
+RailsセットかCakePHPセットか、どちらかを選べます。
 
 ### Railsセット
 * インストールされているもの
