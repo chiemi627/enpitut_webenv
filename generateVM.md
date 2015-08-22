@@ -14,13 +14,13 @@
 ```
 * 準備
  * Railsセットの場合
-```bash
- % vagrant init chiemi627/centos7.0-rails
-```
+ ```bash
+  % vagrant init chiemi627/centos7.0-rails
+ ```
  * CakePHPセットの場合
-```bash
- % vagrant init chiemi627/centos7.0-cakephp-mysql
-```
+ ```bash
+  % vagrant init chiemi627/centos7.0-cakephp-mysql
+ ```
 
 
 * 環境構築
