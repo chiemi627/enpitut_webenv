@@ -28,14 +28,6 @@
  % vagrant up --provider virtualbox
 ```
 
-* 後処理
- * CakePHPセットの場合のみ、以下を実行してください
-```bash
- % vagrant ssh
- (... on the guest os ...)
- > git clone 
- > ./extra_provision.sh
-```
 実行が完了したら終了です。
 
 
