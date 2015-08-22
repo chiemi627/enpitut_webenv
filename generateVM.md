@@ -22,13 +22,20 @@
   % vagrant init chiemi627/centos7.0-cakephp-mysql
  ```
 
-
 * 環境構築
 ```bash
  % vagrant up --provider virtualbox
 ```
 
 実行が完了したら終了です。
+
+* 実行後の状態
+ * Railsセットの場合
+  * [Railsセットハンズオン資料 by 産技大enpit](https://goo.gl/9ddYIs)の第１章「enPiT仮想化環境にログイン」から進められる状態
+ * CakePHPセットの場合
+  * /var/www/htmlの下にcakephp3をインストールしてある
+  * http://localhost:8080 でページが見えるはず
+  * CakePHPの場合はハンズオン資料はありません
 
 
 開発環境の利用方法
