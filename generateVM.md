@@ -29,6 +29,25 @@
 
 実行が完了したら終了です。
 
+* 問題が起きた時
+ * mountができないと言われて落ちたら→以下のコマンドを実行してみてください
+ ```bash
+ % vagrant ssh
+ (guest osにログインするので,以下のコマンドを実行)
+ > sudo /etc/init.d/vboxadd setup
+ > exit
+ (host osに戻るので)
+ % vagrant reload
+ ```
+ * ネットワーク環境が貧弱でvagrant cloudからの仮想マシンダウンロードがしんどかったら
+ * 渡辺が直接ファイル（package.box）をお渡ししますので以下のコマンドを実行してください
+ ```bash
+ (package.boxを作業ディレクトリ下に置く)
+ % vagrant box add centos_cake package.box
+ % vagrant init centos_cake
+ % vagrant up
+ ```
+
 * 実行後の状態
  * Railsセットの場合
    * [Railsセットハンズオン資料 by 産技大enpit](https://goo.gl/9ddYIs)の第１章の途中、「enPiT仮想化環境にログイン」から進められる状態
